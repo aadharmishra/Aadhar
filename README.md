@@ -1,1 +1,1 @@
-I am **Aadhar Mishra**. I'm a final year student, persuing B.Tech in Computer Science and Systems Engineering. I'm a beginner and eager to learn and make it big in life.
+Hi, I am **Aadhar Mishra**. I currently work in BookMyShow as a Software Development Enginner - 1. I have more than a year of experience in the industry and have worked with different technologies like .NET, NodeJS, JavaScript, AJAX, HTML, CSS, SQL, MongoDB, Redis. I am a positive minded individual, who is always curious and eager to learn.
